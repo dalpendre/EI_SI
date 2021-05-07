@@ -1,0 +1,10 @@
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Consulta_TestePratico1\Consulta_TestePratico_1\Consulta_TestePratico_1\bin\Debug\Consulta_TestePratico_1.exe.config
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Consulta_TestePratico1\Consulta_TestePratico_1\Consulta_TestePratico_1\bin\Debug\Consulta_TestePratico_1.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Consulta_TestePratico1\Consulta_TestePratico_1\Consulta_TestePratico_1\bin\Debug\Consulta_TestePratico_1.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Consulta_TestePratico1\Consulta_TestePratico_1\Consulta_TestePratico_1\bin\Debug\ProtocolSI.dll
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Consulta_TestePratico1\Consulta_TestePratico_1\Consulta_TestePratico_1\bin\Debug\SymmetricsSI.dll
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Consulta_TestePratico1\Consulta_TestePratico_1\Consulta_TestePratico_1\obj\Debug\Consulta_TestePratico_1.csprojAssemblyReference.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Consulta_TestePratico1\Consulta_TestePratico_1\Consulta_TestePratico_1\obj\Debug\Consulta_TestePratico_1.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Consulta_TestePratico1\Consulta_TestePratico_1\Consulta_TestePratico_1\obj\Debug\Consulta_TestePratico_1.csproj.CopyComplete
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Consulta_TestePratico1\Consulta_TestePratico_1\Consulta_TestePratico_1\obj\Debug\Consulta_TestePratico_1.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Consulta_TestePratico1\Consulta_TestePratico_1\Consulta_TestePratico_1\obj\Debug\Consulta_TestePratico_1.pdb

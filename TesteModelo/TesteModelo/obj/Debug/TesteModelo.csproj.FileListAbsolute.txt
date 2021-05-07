@@ -1,0 +1,28 @@
+D:\duart\fichasSI\TesteModelo\TesteModelo\bin\Debug\TesteModelo.exe.config
+D:\duart\fichasSI\TesteModelo\TesteModelo\bin\Debug\TesteModelo.exe
+D:\duart\fichasSI\TesteModelo\TesteModelo\bin\Debug\TesteModelo.pdb
+D:\duart\fichasSI\TesteModelo\TesteModelo\obj\Debug\TesteModelo.csprojAssemblyReference.cache
+D:\duart\fichasSI\TesteModelo\TesteModelo\obj\Debug\TesteModelo.Form1.resources
+D:\duart\fichasSI\TesteModelo\TesteModelo\obj\Debug\TesteModelo.Properties.Resources.resources
+D:\duart\fichasSI\TesteModelo\TesteModelo\obj\Debug\TesteModelo.csproj.GenerateResource.cache
+D:\duart\fichasSI\TesteModelo\TesteModelo\obj\Debug\TesteModelo.csproj.CoreCompileInputs.cache
+D:\duart\fichasSI\TesteModelo\TesteModelo\obj\Debug\TesteModelo.exe
+D:\duart\fichasSI\TesteModelo\TesteModelo\obj\Debug\TesteModelo.pdb
+D:\duart\fichasSI\TesteModelo\TesteModelo\bin\Debug\ProtocolSI.dll
+D:\duart\fichasSI\TesteModelo\TesteModelo\obj\Debug\TesteModelo.csproj.CopyComplete
+D:\duart\fichasSI\TesteModelo\TesteModelo\bin\Debug\privateKey.xml
+D:\duart\fichasSI\TesteModelo\TesteModelo\bin\Debug\publicKey.xml
+D:\duart\fichasSI\TesteModelo\TesteModelo\bin\Debug\SymmetricsSI.dll
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TesteModelo\TesteModelo\bin\Debug\privateKey.xml
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TesteModelo\TesteModelo\bin\Debug\publicKey.xml
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TesteModelo\TesteModelo\bin\Debug\TesteModelo.exe.config
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TesteModelo\TesteModelo\bin\Debug\TesteModelo.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TesteModelo\TesteModelo\bin\Debug\TesteModelo.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TesteModelo\TesteModelo\obj\Debug\TesteModelo.csprojAssemblyReference.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TesteModelo\TesteModelo\obj\Debug\TesteModelo.Form1.resources
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TesteModelo\TesteModelo\obj\Debug\TesteModelo.Properties.Resources.resources
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TesteModelo\TesteModelo\obj\Debug\TesteModelo.csproj.GenerateResource.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TesteModelo\TesteModelo\obj\Debug\TesteModelo.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TesteModelo\TesteModelo\obj\Debug\TesteModelo.csproj.CopyComplete
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TesteModelo\TesteModelo\obj\Debug\TesteModelo.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TesteModelo\TesteModelo\obj\Debug\TesteModelo.pdb

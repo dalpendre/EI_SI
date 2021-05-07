@@ -1,0 +1,10 @@
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\elementos_entregar\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\elementos_entregar\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\elementos_entregar\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\elementos_entregar\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\elementos_entregar\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\elementos_entregar\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\elementos_entregar\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\elementos_entregar\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\elementos_entregar\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\elementos_entregar\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb

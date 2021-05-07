@@ -1,0 +1,7 @@
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha2\Worksheet2-Solution\Exercise 2 - Client\bin\Debug\Exercise 2 - Client.exe.config
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha2\Worksheet2-Solution\Exercise 2 - Client\bin\Debug\Exercise 2 - Client.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha2\Worksheet2-Solution\Exercise 2 - Client\bin\Debug\Exercise 2 - Client.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha2\Worksheet2-Solution\Exercise 2 - Client\obj\Debug\Exercise2 - Client.csprojAssemblyReference.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha2\Worksheet2-Solution\Exercise 2 - Client\obj\Debug\Exercise2 - Client.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha2\Worksheet2-Solution\Exercise 2 - Client\obj\Debug\Exercise 2 - Client.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha2\Worksheet2-Solution\Exercise 2 - Client\obj\Debug\Exercise 2 - Client.pdb

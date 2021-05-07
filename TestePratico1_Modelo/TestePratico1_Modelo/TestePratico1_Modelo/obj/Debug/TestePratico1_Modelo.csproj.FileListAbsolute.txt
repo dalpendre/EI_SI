@@ -1,0 +1,10 @@
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1_Modelo\TestePratico1_Modelo\TestePratico1_Modelo\bin\Debug\TestePratico1_Modelo.exe.config
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1_Modelo\TestePratico1_Modelo\TestePratico1_Modelo\bin\Debug\TestePratico1_Modelo.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1_Modelo\TestePratico1_Modelo\TestePratico1_Modelo\bin\Debug\TestePratico1_Modelo.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1_Modelo\TestePratico1_Modelo\TestePratico1_Modelo\obj\Debug\TestePratico1_Modelo.csprojAssemblyReference.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1_Modelo\TestePratico1_Modelo\TestePratico1_Modelo\obj\Debug\TestePratico1_Modelo.Form1.resources
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1_Modelo\TestePratico1_Modelo\TestePratico1_Modelo\obj\Debug\TestePratico1_Modelo.Properties.Resources.resources
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1_Modelo\TestePratico1_Modelo\TestePratico1_Modelo\obj\Debug\TestePratico1_Modelo.csproj.GenerateResource.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1_Modelo\TestePratico1_Modelo\TestePratico1_Modelo\obj\Debug\TestePratico1_Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1_Modelo\TestePratico1_Modelo\TestePratico1_Modelo\obj\Debug\TestePratico1_Modelo.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1_Modelo\TestePratico1_Modelo\TestePratico1_Modelo\obj\Debug\TestePratico1_Modelo.pdb

@@ -1,0 +1,9 @@
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha2\Worksheet2-Solution\MITM\bin\Debug\MITM.exe.config
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha2\Worksheet2-Solution\MITM\bin\Debug\MITM.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha2\Worksheet2-Solution\MITM\bin\Debug\MITM.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha2\Worksheet2-Solution\MITM\bin\Debug\ProtocolSI.dll
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha2\Worksheet2-Solution\MITM\obj\Debug\MITM.csprojAssemblyReference.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha2\Worksheet2-Solution\MITM\obj\Debug\MITM.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha2\Worksheet2-Solution\MITM\obj\Debug\MITM.csproj.CopyComplete
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha2\Worksheet2-Solution\MITM\obj\Debug\MITM.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha2\Worksheet2-Solution\MITM\obj\Debug\MITM.pdb

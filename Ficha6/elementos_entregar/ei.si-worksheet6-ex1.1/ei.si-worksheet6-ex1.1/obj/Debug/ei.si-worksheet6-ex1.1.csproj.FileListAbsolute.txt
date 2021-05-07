@@ -1,0 +1,9 @@
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.1\ei.si-worksheet6-ex1.1\bin\Debug\ei.si-worksheet6-ex1.1.exe.config
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.1\ei.si-worksheet6-ex1.1\bin\Debug\ei.si-worksheet6-ex1.1.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.1\ei.si-worksheet6-ex1.1\bin\Debug\ei.si-worksheet6-ex1.1.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.1\ei.si-worksheet6-ex1.1\obj\Debug\ei.si.worksheet6.Form1.resources
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.1\ei.si-worksheet6-ex1.1\obj\Debug\ei.si.worksheet6.Properties.Resources.resources
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.1\ei.si-worksheet6-ex1.1\obj\Debug\ei.si-worksheet6-ex1.1.csproj.GenerateResource.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.1\ei.si-worksheet6-ex1.1\obj\Debug\ei.si-worksheet6-ex1.1.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.1\ei.si-worksheet6-ex1.1\obj\Debug\ei.si-worksheet6-ex1.1.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.1\ei.si-worksheet6-ex1.1\obj\Debug\ei.si-worksheet6-ex1.1.pdb

@@ -1,0 +1,37 @@
+C:\Users\marisa\Desktop\SI-repos\EI.SI_Worksheet07\ei.si-worksheet7-ex1.1\ei.si-worksheet8-ex1.1\ei.si-worksheet8-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.csprojAssemblyReference.cache
+C:\Users\marisa\Desktop\SI-repos\EI.SI_Worksheet07\ei.si-worksheet7-ex1.1\ei.si-worksheet8-ex1.1\ei.si-worksheet8-ex1.1\obj\Debug\ei.si_worksheet8.Form1.resources
+C:\Users\marisa\Desktop\SI-repos\EI.SI_Worksheet07\ei.si-worksheet7-ex1.1\ei.si-worksheet8-ex1.1\ei.si-worksheet8-ex1.1\obj\Debug\ei.si_worksheet7.Properties.Resources.resources
+C:\Users\marisa\Desktop\SI-repos\EI.SI_Worksheet07\ei.si-worksheet7-ex1.1\ei.si-worksheet8-ex1.1\ei.si-worksheet8-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.csproj.GenerateResource.cache
+C:\Users\marisa\Desktop\SI-repos\EI.SI_Worksheet07\ei.si-worksheet7-ex1.1\ei.si-worksheet8-ex1.1\ei.si-worksheet8-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.csproj.CoreCompileInputs.cache
+C:\Users\marisa\Desktop\SI-repos\EI.SI_Worksheet07\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si_worksheet7.Form1.resources
+C:\Users\marisa\Desktop\SI-repos\EI.SI_Worksheet07\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si_worksheet7.Properties.Resources.resources
+C:\Users\marisa\Desktop\SI-repos\EI.SI_Worksheet07\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.csproj.GenerateResource.cache
+C:\Users\marisa\Desktop\SI-repos\EI.SI_Worksheet07\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.csproj.CoreCompileInputs.cache
+C:\Users\marisa\Desktop\SI-repos\EI.SI_Worksheet07\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\bin\Debug\ei.si-worksheet7-ex1.1.exe.config
+C:\Users\marisa\Desktop\SI-repos\EI.SI_Worksheet07\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\bin\Debug\ei.si-worksheet7-ex1.1.exe
+C:\Users\marisa\Desktop\SI-repos\EI.SI_Worksheet07\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\bin\Debug\ei.si-worksheet7-ex1.1.pdb
+C:\Users\marisa\Desktop\SI-repos\EI.SI_Worksheet07\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.exe
+C:\Users\marisa\Desktop\SI-repos\EI.SI_Worksheet07\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.pdb
+C:\Users\marisa\Desktop\SI-repos\EI.SI_Worksheet07\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.csprojAssemblyReference.cache
+C:\Users\marisa\Desktop\update_fichas\07_DigitalCertificates (.NET)\PROJETOS_ALUNOS\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\bin\Debug\ei.si-worksheet7-ex1.1.exe.config
+C:\Users\marisa\Desktop\update_fichas\07_DigitalCertificates (.NET)\PROJETOS_ALUNOS\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\bin\Debug\ei.si-worksheet7-ex1.1.exe
+C:\Users\marisa\Desktop\update_fichas\07_DigitalCertificates (.NET)\PROJETOS_ALUNOS\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\bin\Debug\ei.si-worksheet7-ex1.1.pdb
+C:\Users\marisa\Desktop\update_fichas\07_DigitalCertificates (.NET)\PROJETOS_ALUNOS\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.csprojAssemblyReference.cache
+C:\Users\marisa\Desktop\update_fichas\07_DigitalCertificates (.NET)\PROJETOS_ALUNOS\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si_worksheet7.Form1.resources
+C:\Users\marisa\Desktop\update_fichas\07_DigitalCertificates (.NET)\PROJETOS_ALUNOS\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si_worksheet7.Properties.Resources.resources
+C:\Users\marisa\Desktop\update_fichas\07_DigitalCertificates (.NET)\PROJETOS_ALUNOS\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.csproj.GenerateResource.cache
+C:\Users\marisa\Desktop\update_fichas\07_DigitalCertificates (.NET)\PROJETOS_ALUNOS\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.csproj.CoreCompileInputs.cache
+C:\Users\marisa\Desktop\update_fichas\07_DigitalCertificates (.NET)\PROJETOS_ALUNOS\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.exe
+C:\Users\marisa\Desktop\update_fichas\07_DigitalCertificates (.NET)\PROJETOS_ALUNOS\ei.si-worksheet7-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha7\ei.si-Worksheet_07-ex1.1\ei.si-worksheet7-ex1.1\bin\Debug\estg.ei.si.a.cer
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha7\ei.si-Worksheet_07-ex1.1\ei.si-worksheet7-ex1.1\bin\Debug\estg.ei.si.a.pfx
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha7\ei.si-Worksheet_07-ex1.1\ei.si-worksheet7-ex1.1\bin\Debug\ei.si-worksheet7-ex1.1.exe.config
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha7\ei.si-Worksheet_07-ex1.1\ei.si-worksheet7-ex1.1\bin\Debug\ei.si-worksheet7-ex1.1.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha7\ei.si-Worksheet_07-ex1.1\ei.si-worksheet7-ex1.1\bin\Debug\ei.si-worksheet7-ex1.1.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha7\ei.si-Worksheet_07-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.csprojAssemblyReference.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha7\ei.si-Worksheet_07-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si_worksheet7.Form1.resources
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha7\ei.si-Worksheet_07-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si_worksheet7.Properties.Resources.resources
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha7\ei.si-Worksheet_07-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.csproj.GenerateResource.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha7\ei.si-Worksheet_07-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha7\ei.si-Worksheet_07-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha7\ei.si-Worksheet_07-ex1.1\ei.si-worksheet7-ex1.1\obj\Debug\ei.si-worksheet7-ex1.1.pdb

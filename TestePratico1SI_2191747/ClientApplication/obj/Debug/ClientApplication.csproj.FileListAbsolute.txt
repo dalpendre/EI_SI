@@ -1,0 +1,38 @@
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ClientApplication\bin\Debug\ProtocolSI.dll
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ClientApplication\bin\Debug\SymmetricsSI.dll
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ClientApplication\obj\Debug\ClientApplication.csprojAssemblyReference.cache
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ClientApplication\obj\Debug\ClientApplication.FormPracticalExame.resources
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ClientApplication\obj\Debug\ClientApplication.Properties.Resources.resources
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ClientApplication\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ClientApplication\obj\Debug\ClientApplication.csproj.CopyComplete
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ClientApplication\obj\Debug\ClientApplication.pdb
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ClientApplication\bin\Debug\ProtocolSI.dll
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ClientApplication\bin\Debug\SymmetricsSI.dll
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ClientApplication\obj\Debug\ClientApplication.FormMain.resources
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ClientApplication\obj\Debug\ClientApplication.Properties.Resources.resources
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ClientApplication\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ClientApplication\obj\Debug\ClientApplication.csproj.CopyComplete
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ClientApplication\obj\Debug\ClientApplication.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ClientApplication\bin\Debug\ClientApplication.exe.config
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ClientApplication\bin\Debug\ClientApplication.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ClientApplication\bin\Debug\ClientApplication.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ClientApplication\bin\Debug\ProtocolSI.dll
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ClientApplication\bin\Debug\SymmetricsSI.dll
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ClientApplication\obj\Debug\ClientApplication.csprojAssemblyReference.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ClientApplication\obj\Debug\ClientApplication.FormMain.resources
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ClientApplication\obj\Debug\ClientApplication.Properties.Resources.resources
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ClientApplication\obj\Debug\ClientApplication.csproj.GenerateResource.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ClientApplication\obj\Debug\ClientApplication.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ClientApplication\obj\Debug\ClientApplication.csproj.CopyComplete
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ClientApplication\obj\Debug\ClientApplication.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ClientApplication\obj\Debug\ClientApplication.pdb

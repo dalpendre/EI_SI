@@ -1,0 +1,11 @@
+D:\duart\fichasSI\TesteModelo\Server\bin\Debug\privateKey.xml
+D:\duart\fichasSI\TesteModelo\Server\bin\Debug\Server.exe.config
+D:\duart\fichasSI\TesteModelo\Server\bin\Debug\Server.exe
+D:\duart\fichasSI\TesteModelo\Server\bin\Debug\Server.pdb
+D:\duart\fichasSI\TesteModelo\Server\bin\Debug\ProtocolSI.dll
+D:\duart\fichasSI\TesteModelo\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\duart\fichasSI\TesteModelo\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\duart\fichasSI\TesteModelo\Server\obj\Debug\Server.csproj.CopyComplete
+D:\duart\fichasSI\TesteModelo\Server\obj\Debug\Server.exe
+D:\duart\fichasSI\TesteModelo\Server\obj\Debug\Server.pdb
+D:\duart\fichasSI\TesteModelo\Server\bin\Debug\SymmetricsSI.dll

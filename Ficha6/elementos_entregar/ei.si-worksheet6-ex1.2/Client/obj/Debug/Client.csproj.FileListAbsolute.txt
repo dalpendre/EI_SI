@@ -1,0 +1,10 @@
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.2\Client\bin\Debug\Client.exe.config
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.2\Client\bin\Debug\Client.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.2\Client\bin\Debug\Client.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.2\Client\bin\Debug\ProtocolSI.dll
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.2\Client\bin\Debug\SymmetricsSI.dll
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.2\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.2\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.2\Client\obj\Debug\Client.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha6\elementos_entregar\ei.si-worksheet6-ex1.2\Client\obj\Debug\Client.pdb

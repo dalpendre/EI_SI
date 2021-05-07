@@ -1,0 +1,7 @@
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\Worksheet1-Solution\WCFService\bin\WCFService.dll.config
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\Worksheet1-Solution\WCFService\bin\WCFService.dll
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\Worksheet1-Solution\WCFService\bin\WCFService.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\Worksheet1-Solution\WCFService\obj\Debug\WCFService.csprojAssemblyReference.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\Worksheet1-Solution\WCFService\obj\Debug\WCFService.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\Worksheet1-Solution\WCFService\obj\Debug\WCFService.dll
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\Worksheet1-Solution\WCFService\obj\Debug\WCFService.pdb

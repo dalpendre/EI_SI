@@ -1,0 +1,6 @@
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\Worksheet1-Solution\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\Worksheet1-Solution\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\Worksheet1-Solution\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\Worksheet1-Solution\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\Worksheet1-Solution\SharedLibrary\obj\Debug\SharedLibrary.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\Ficha1\Worksheet1-Solution\SharedLibrary\obj\Debug\SharedLibrary.csprojAssemblyReference.cache

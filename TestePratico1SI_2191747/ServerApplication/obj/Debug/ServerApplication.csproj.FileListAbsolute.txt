@@ -1,0 +1,30 @@
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ServerApplication\bin\Debug\ServerApplication.exe.config
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ServerApplication\bin\Debug\ServerApplication.exe
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ServerApplication\bin\Debug\ServerApplication.pdb
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ServerApplication\bin\Debug\ProtocolSI.dll
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ServerApplication\bin\Debug\SymmetricsSI.dll
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ServerApplication\obj\Debug\ServerApplication.csprojAssemblyReference.cache
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ServerApplication\obj\Debug\ServerApplication.csproj.CoreCompileInputs.cache
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ServerApplication\obj\Debug\ServerApplication.csproj.CopyComplete
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ServerApplication\obj\Debug\ServerApplication.exe
+C:\Users\marisa\Desktop\PracticalTest_BaseCode\ServerApplication\obj\Debug\ServerApplication.pdb
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ServerApplication\bin\Debug\ServerApplication.exe.config
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ServerApplication\bin\Debug\ServerApplication.exe
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ServerApplication\bin\Debug\ServerApplication.pdb
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ServerApplication\bin\Debug\ProtocolSI.dll
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ServerApplication\bin\Debug\SymmetricsSI.dll
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ServerApplication\obj\Debug\ServerApplication.csprojAssemblyReference.cache
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ServerApplication\obj\Debug\ServerApplication.csproj.CoreCompileInputs.cache
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ServerApplication\obj\Debug\ServerApplication.csproj.CopyComplete
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ServerApplication\obj\Debug\ServerApplication.exe
+C:\Users\marisa\Desktop\PracticalExam1_BaseCode\ServerApplication\obj\Debug\ServerApplication.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ServerApplication\bin\Debug\ServerApplication.exe.config
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ServerApplication\bin\Debug\ServerApplication.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ServerApplication\bin\Debug\ServerApplication.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ServerApplication\bin\Debug\ProtocolSI.dll
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ServerApplication\bin\Debug\SymmetricsSI.dll
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ServerApplication\obj\Debug\ServerApplication.csprojAssemblyReference.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ServerApplication\obj\Debug\ServerApplication.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ServerApplication\obj\Debug\ServerApplication.csproj.CopyComplete
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ServerApplication\obj\Debug\ServerApplication.exe
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\EI_seguranca_informacao\TestePratico1SI_2191747\ServerApplication\obj\Debug\ServerApplication.pdb
