@@ -244,7 +244,14 @@ namespace ei.si_worksheet7
 
         private void ButtonEncryptAndSign_Click(object sender, EventArgs e)
         {
+            X509Store store = new X509Store(StoreName.My, StoreLocation.CurrentUser);
+            store.Open(OpenFlags.ReadOnly);
 
+            X509Certificate2Collection certs = X509Certificate2UI.SelectFromCollection(store.Certificates, "EI SI",
+            "Choose a certificate", X509SelectionFlag.SingleSelection);
+
+            X509Certificate2 certificate = certs[0];
+            certificate.
         }
 
         private void ButtonVerifyAndDecrypt_Click(object sender, EventArgs e)

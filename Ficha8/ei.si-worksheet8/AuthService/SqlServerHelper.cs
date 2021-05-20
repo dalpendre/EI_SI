@@ -34,6 +34,11 @@ namespace AuthService
         /// <returns>Returns the id of user or 0 if user do not exists</returns>
         public static int UserExists(string login, string password)
         {
+            using(SHA256CryptoServiceProvider sha = new SHA256CryptoServiceProvider())
+            {
+                password = Convert.ToBase64String(sha.ComputeHash(Encoding.UTF8.GetBytes(password)));
+            }
+
             SqlConnection sqlConnection = null;
             try
             {
@@ -41,14 +46,21 @@ namespace AuthService
                 SqlCommand cmd = new SqlCommand();
 
                 // attention...
-                cmd.CommandText = "SELECT id FROM Users where login = '" + login + "' AND password = '" + password + "'";
+                //cmd.CommandText = "SELECT id FROM Users where login = '" + login + "' AND password = '" + password + "'";
+                cmd.CommandText = "SELECT id FROM Users where login = @login AND password = @password";
+                cmd.Parameters.AddWithValue("login", login);
+                cmd.Parameters.AddWithValue("password", password);
 
                 cmd.CommandType = CommandType.Text;
                 cmd.Connection = sqlConnection;
                 sqlConnection.Open();
 
-                int id = (int)cmd.ExecuteScalar();
-                return id;
+                var result = cmd.ExecuteScalar();
+                if(result == null)
+                {
+                    return 0;
+                }
+                return (int)result;
             }
             catch
             {
@@ -78,7 +90,10 @@ namespace AuthService
                 SqlCommand cmd = new SqlCommand();
 
                 // todo ...
-                cmd.CommandText = "UPDATE ...";
+                //cmd.CommandText = "UPDATE Users SET description = '"+description+"' WHERE id="+id.ToString();
+                cmd.CommandText = "UPDATE Users SET description = @description WHERE id = @id";
+                cmd.Parameters.AddWithValue("description", description);
+                cmd.Parameters.AddWithValue("id", id);
 
                 cmd.CommandType = CommandType.Text;
                 cmd.Connection = sqlConnection;
@@ -98,7 +113,6 @@ namespace AuthService
             }
         }
 
-
         /// <summary>
         /// Gets a User from Database 
         /// </summary>
@@ -114,7 +128,8 @@ namespace AuthService
                 SqlDataReader reader;
 
                 // isto DEVE que ser alterado .... para usar SQLParameters
-                cmd.CommandText = "SELECT * FROM Users where id = " + id.ToString();
+                cmd.CommandText = "SELECT * FROM Users where id = @id";
+                cmd.Parameters.AddWithValue("id", id);
                 cmd.CommandType = CommandType.Text;
                 cmd.Connection = sqlConnection;
                 sqlConnection.Open();
@@ -146,7 +161,7 @@ namespace AuthService
         /// <returns>List with the users or null</returns>
         public static List<User> GetUsers()
         {
-            List<User> users = null;
+            List<User> users = new List<User>();
             SqlConnection sqlConnection = null;
             try
             {
@@ -160,11 +175,14 @@ namespace AuthService
                 sqlConnection.Open();
 
                 reader = cmd.ExecuteReader();
+
                 // todo : obter lista de utilizadores
-                if (reader.Read())
+                while(reader.Read())
                 {
                     User user = LoadUser(reader);
+                    users.Add(user);
                 }
+
                 //...........
                 return users;
             }

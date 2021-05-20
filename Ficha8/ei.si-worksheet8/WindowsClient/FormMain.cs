@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-
+using WindowsClient.AuthServiceReference;
 
 namespace WindowsClient
 {
@@ -39,12 +39,20 @@ namespace WindowsClient
             AuthServiceReference.AuthServiceClient client =
             new AuthServiceReference.AuthServiceClient();
 
-            MessageBox.Show(client.VerifyAcessToBD());
+            //MessageBox.Show(client.VerifyAcessToBD());
+
+            var users = client.GetUsers(txtLogin.Text, txtPassword.Text);
+
+            if(users == null)
+            {
+                MessageBox.Show("NOT AUTHENTICATED");
+                return;
+            }
 
             //// versão 1
-            //lboxUsers.DataSource = users;
-            //lboxUsers.DisplayMember = "Name";
-            //lboxUsers.ValueMember = "Login";
+            lboxUsers.DataSource = users;
+            lboxUsers.DisplayMember = "Name";
+            lboxUsers.ValueMember = "ID";
 
             //// versão 2
             //lboxUsers.Items.Clear();
@@ -63,14 +71,19 @@ namespace WindowsClient
         private void BtnGetDescription_Click(object sender, EventArgs e)
         {
             //// proteção para que não se execute esta funcionalidade sem que um utilizador esteja selecionado
-            //if (lboxUsers.SelectedIndex == -1)
-            //{
-            //    MessageBox.Show("tem que escolher um utilizador!");
-            //    return;
-            //}
+            if(lboxUsers.SelectedIndex == -1)
+            {
+                MessageBox.Show("tem que escolher um utilizador!");
+                return;
+            }
 
-            // todo: linha selecionada na listbox.... ((string)lboxUsers.SelectedValue)
+            int id = (int)lboxUsers.SelectedValue;
 
+            AuthServiceClient client = new AuthServiceClient();
+
+            User user = client.GetUser(id);
+
+            txtDescription.Text = user.Description;
         }
 
         /// <summary>
@@ -87,6 +100,22 @@ namespace WindowsClient
 
                 // lembrar de usar o "using"
 
+                using(AuthServiceClient client = new AuthServiceClient())
+                {
+                    string login = txtLogin.Text;
+                    string password = txtPassword.Text;
+                    string description = txtMyDescription.Text;
+
+                    var result = client.UpdateUserDescription(login, password, description);
+                    if(result)
+                    {
+                        MessageBox.Show("Description updated");
+                    }
+                    else 
+                    {
+                        MessageBox.Show("Description NOT Updated");
+                    }
+                }
             }
             catch (Exception ex)
             {

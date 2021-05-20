@@ -22,10 +22,11 @@
     <MetadataSource Address="http://localhost:1871/AuthService.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="AuthService.xsd" MetadataType="Schema" ID="57a359f1-9a0b-4f9a-8c09-c86bed57132e" SourceId="1" SourceUrl="http://localhost:1871/AuthService.svc?xsd=xsd1" />
+    <MetadataFile FileName="AuthService2.xsd" MetadataType="Schema" ID="ecd1641b-4191-4a05-ad25-d465545ba089" SourceId="1" SourceUrl="http://localhost:1871/AuthService.svc?xsd=xsd2" />
     <MetadataFile FileName="AuthService.wsdl" MetadataType="Wsdl" ID="3002d509-4ad3-4539-938a-c5ee75d2903b" SourceId="1" SourceUrl="http://localhost:1871/AuthService.svc?wsdl" />
     <MetadataFile FileName="AuthService1.xsd" MetadataType="Schema" ID="4d8d4a3d-d69a-47b6-9e3c-b56b1a1cbeb1" SourceId="1" SourceUrl="http://localhost:1871/AuthService.svc?xsd=xsd0" />
     <MetadataFile FileName="AuthService.disco" MetadataType="Disco" ID="065fd22a-3364-4bf6-8c43-e20d9aa02832" SourceId="1" SourceUrl="http://localhost:1871/AuthService.svc?disco" />
+    <MetadataFile FileName="AuthService.xsd" MetadataType="Schema" ID="57a359f1-9a0b-4f9a-8c09-c86bed57132e" SourceId="1" SourceUrl="http://localhost:1871/AuthService.svc?xsd=xsd1" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

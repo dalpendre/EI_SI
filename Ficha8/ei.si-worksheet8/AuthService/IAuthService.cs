@@ -13,6 +13,17 @@ namespace AuthService
         [OperationContract]
         string VerifyAcessToBD();
 
+        [OperationContract]
+        User[] GetUsers(string login, string password);
+
+        [OperationContract]
+        User GetUser(int id);
+
+        [OperationContract]
+        bool UpdateUserDescription(string login, string password, string description);
+
+        [OperationContract]
+        string[] GetHashes();
     }
 
 }

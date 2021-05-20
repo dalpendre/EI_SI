@@ -91,6 +91,9 @@
     <None Include="Service References\AuthServiceReference\AuthService1.xsd">
       <SubType>Designer</SubType>
     </None>
+    <None Include="Service References\AuthServiceReference\WindowsClient.AuthServiceReference.User.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -105,6 +108,9 @@
     <None Include="Service References\AuthServiceReference\AuthService.disco" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Service References\AuthServiceReference\AuthService2.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Service References\AuthServiceReference\configuration91.svcinfo" />
   </ItemGroup>
   <ItemGroup>

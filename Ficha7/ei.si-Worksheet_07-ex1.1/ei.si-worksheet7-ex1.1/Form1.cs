@@ -105,7 +105,16 @@ namespace ei.si_worksheet7
 
         private void ButtonVerifyCertChain_Click(object sender, EventArgs e)
         {
+            X509Certificate2 certificate = new X509Certificate2("estg.ei.si.a.cer");
 
+            X509Chain chain = new X509Chain();
+            chain.ChainPolicy.RevocationMode = X509RevocationMode.Online;
+            chain.Build(certificate);
+
+            foreach(X509ChainElement element in chain.ChainElements)
+            {
+                MessageBox.Show(element.ChainElementStatus.ToString());
+            }
         }
 
         private void ButtonExportPublicCert_Click(object sender, EventArgs e)

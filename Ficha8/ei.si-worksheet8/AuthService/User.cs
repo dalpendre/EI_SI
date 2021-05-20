@@ -6,12 +6,18 @@ using System.Web;
 
 namespace AuthService
 {
+    [DataContract]
     public class User
     {
+        //To show on client (without it, it does not show)
+        [DataMember]   
         public int Id { get; set; }
+        [DataMember]
         public string Login { get; set; }
+        [DataMember]
         public string Name { get; set; }
         public string Password { get; set; }
+        [DataMember]
         public string Description { get; set; }
 
     }
